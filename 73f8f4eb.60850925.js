@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{87:function(a){a.exports=JSON.parse('{"allTagsPath":"/habwerk-Docs /blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/habwerk-Docs /blog/tags/hola"}')}}]);
