@@ -7,4 +7,4 @@ Amazon Alexa,  ist eine von Amazon entwickelte virtuelle Assistenten- KI- Techno
 
 ## Einbindung von Alexa
 
-Die Einbindung erfolgt über ein ...blablabla
+Die Einbindung erfolgt über ein ...blablabla Test
