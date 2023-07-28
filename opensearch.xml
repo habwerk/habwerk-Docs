@@ -4,8 +4,8 @@
   <ShortName>Habwerk Docs</ShortName>
   <Description>Search Habwerk Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://habwerk.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://habwerk.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://habwerk.github.io/opensearch.xml" />
-  <moz:SearchForm>https://habwerk.github.io</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docu.habwerk.at/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docu.habwerk.at/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docu.habwerk.at/opensearch.xml" />
+  <moz:SearchForm>https://docu.habwerk.at</moz:SearchForm>
 </OpenSearchDescription>

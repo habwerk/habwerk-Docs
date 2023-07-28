@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{67:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/habwerk-Docs/blog/welcome"},{"title":"Hello","permalink":"/habwerk-Docs/blog/hello-world"},{"title":"Hola","permalink":"/habwerk-Docs/blog/hola"}]}')}}]);
