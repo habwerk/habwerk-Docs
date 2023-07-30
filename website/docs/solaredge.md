@@ -1,7 +1,6 @@
 ---
-id: Test
-title: Powered by MDX
-sidebar_label: SolarEdge
+id: solaredge
+title: SolarEdge
 ---
 
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
